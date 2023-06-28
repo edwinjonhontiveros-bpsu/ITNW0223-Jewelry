@@ -1,0 +1,34 @@
+<data>
+  <jewelry>
+    <name>Ear Lobe Cuff Earrings</name>
+    <price>17,000</price>
+    <desc>
+      Handcrafted in 14-karat solid gold, the Ear Lobe Cuff Earrings are sleek, edgy, and
+      straightforward in design.
+    </desc>
+  </jewelry>
+  <jewelry>
+    <name>Hear Locket Necklace</name>
+    <price>32,000</price>
+    <desc>
+      Beautifully handcrafted in 14-karat solid gold, this charming heart-shaped locket is
+      a sweet addition to your chains.
+    </desc>
+  </jewelry>
+  <jewelry>
+    <name>Bubble Barely There Bracelet</name>
+    <price>4,0000</price>
+    <desc>
+      Barely There Bracelet – This 14-karat yellow gold Barely There link bracelet is a
+      classic minimal chain for the perfect understated look.
+    </desc>
+  </jewelry>
+  <jewelry>
+    <name>Bold Round Diamond Link Ring</name>
+    <price>21,000</price>
+    <desc>
+      14-karat gold Bold Round Diamond Link Ring with striking chunky chain design
+      encrusted with pavé round cut natural diamonds.
+    </desc>
+  </jewelry>
+</data>

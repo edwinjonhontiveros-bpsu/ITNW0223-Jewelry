@@ -19,8 +19,8 @@ function showSlides() {
 
 // change hero bg
 function heroBack1() {
-  document.getElementById("changeBack").style.backgroundImage = "url('media/bubble_bracelet.webp')";
-  document.getElementById("changeBackFoot").style.backgroundImage = "url('media/bubble_bracelet.webp')";
+  document.getElementById("changeBack").style.backgroundImage = "url('media/bubble_barely_there_bracelet.webp')";
+  document.getElementById("changeBackFoot").style.backgroundImage = "url('media/bubble_barely_there_bracelet.webp')";
 }
 function heroBack2() {
   document.getElementById("changeBack").style.backgroundImage = "url('media/heart_locket_2.webp')";

@@ -1,5 +1,4 @@
 // specifically for jewelryData.xml
-
 function load() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
@@ -20,6 +19,7 @@ function disp(xml) {
     var price = records[i].getElementsByTagName("price")[0].textContent;
     var desc = records[i].getElementsByTagName("desc")[0].textContent;
     var currency = "₱";
+    var imageFileName = name.toLowerCase().replace(/ /g, "_") + ".webp";
 
     out += "<div class='recordDetails'>" + 
       "<h2>Name</h2>" +
@@ -28,6 +28,7 @@ function disp(xml) {
         "<p>" + currency + price + "</p>" +
       "<h2>Description</h2>" + 
         "<p>" + desc + "</p>" +
+      "<img src='media/" + imageFileName + "' alt='" + name + "'>" +
     "</div>";
   }
 
